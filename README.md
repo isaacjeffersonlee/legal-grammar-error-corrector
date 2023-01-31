@@ -8,6 +8,7 @@ and corrector for the implementation of the grammar error corrector.
 
 ### Demo
 We also built an interactive frontend, which is hosted on huggingface spaces [here](https://huggingface.co/spaces/isaacjeffersonlee/Legal-Grammar-Error-Corrector).
+Note: It's a bit slow because we're using the free tier CPU instance (rather than a GPU).
 
 ![demo](images/demo.png)
 
